@@ -1,0 +1,40 @@
+item {
+   id: 1
+   name: 'Goggles'
+}
+item {
+   id: 2
+   name: 'Hat'
+}
+item {
+   id: 3
+   name: 'Jacket'
+}
+item {
+   id: 4
+   name: 'Shirt'
+}
+item {
+   id: 5
+   name: 'Shorts'
+}
+item {
+   id: 6
+   name: 'Trouser'
+}
+item {
+   id: 7
+   name: 'T-Shirt'
+}
+item {
+   id: 8
+   name: 'Wallet'
+}
+item {
+   id: 9
+   name: 'Watch'
+}
+item {
+   id: 10
+   name: 'Shoes'
+}
