@@ -4,7 +4,7 @@ attrs==19.3.0
 backcall==0.1.0
 Click==7.0
 Flask==1.1.1
-Flask-Cors==3.0.8
+Flask-Cors==3.0.9
 idna==2.6
 GPUtil
 imageio==2.6.1
