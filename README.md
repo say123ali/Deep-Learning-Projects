@@ -3,6 +3,55 @@
 #### Detecting Motorcylist with or without Helmet. Multiple Object Detection in one Image
 ### 2. Clothing Apparel Detection
 ### 3. Agricultural Plant Disease Classification
+# Plant Disease Classification
+
+## Description
+
+In agriculture, leaf diseases cause a major decrease in both quality and quantity of yields. Automating plant disease detection using Computer Vision could play a role in early detection and prevention of diseases.
+
+
+## Architecture
+
+
+## Data
+
+We will use dataset gathered by the awesome folks at PlantVillage(https://plantvillage.psu.edu/).
+
+Dataset Link:- 
+https://www.dropbox.com/s/hgt9uystjlinzlp/plantVillage.zip
+
+## Data Description
+
+Dataset Size :-
+*     Number of train images: 44014
+*     Number of validation images: 11004
+*     Number of classes: 39
+Dataset Download
+
+`wget https://www.dropbox.com/s/hgt9uystjlinzlp/plantVillage.zip`
+
+`unzip plantVillage.zip`
+
+##### Import Monk library
+##### Place monk inside your project folder
+    `import os`
+    `import sys`
+    `sys.path.append("./monk/")`
+    `import psutil`
+    `from pytorch_prototype import prototype`
+    
+## Data Augmentation
+
+We will be implementing data augmentation by using the Augmentor Library(https://github.com/mdbloice/Augmentor)
+## Training
+
+## Train test validation
+## Performance tuning
+## Possible tuning analytic
+## Comparison with benchmarks
+## Deployment
+
+## Conclusion
 ### 4. Lung Cancer Detection on Histopathological image dataset
 C25000 LUNG AND COLON HISTOPATHOLOGICAL IMAGE DATASET
 
